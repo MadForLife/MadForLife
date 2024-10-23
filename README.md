@@ -1,6 +1,6 @@
 <div align="center">
-    <img height="400" alt="midnight-coding" src="https://github.com/MadForLife/MadForLife/blob/main/workspace-vibe.gif">
-    <p>Art by: <a alt="art by @LiveDigitalArt" href="https://x.com/LiveDigitalArt">Digital Art</a></p>
+    <img height="300" alt="midnight-coding" src="https://github.com/MadForLife/MadForLife/blob/main/workspace-vibe.gif">
+    <p>Art by: <a alt="art by @LiveDigitalArt" href="https://x.com/LiveDigitalArt">@LiveDigitalArt</a></p>
   </div>
   
   <h2 align="center">💫 About me</h2>
