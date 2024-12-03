@@ -13,7 +13,7 @@
   
   ⚡ Interests in backend development, API design, and modern frontend frameworks 
   
-  🌟 Reach me on:
+  🌟 Reach me on: <a href="https://www.linkedin.com/in/hristo-dimitrov-9419a7262/">LinkedIn</a>
   
   <h2 align="center">📚 Languages & Tools I have placed my hands on</h2>
   <div align="center">
